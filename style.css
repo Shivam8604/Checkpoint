@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Custom style */
+
+/* Header */
+body{
+    line-height: 1.5;
+    margin: 150px;
+}
+.header{
+    background-color: rgb(5, 5, 111);
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.home{
+    color: aqua;
+}
+
+nav a{
+    color: white;
+    font-size: 36px;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin: 36px;
+}
+/* Main */
+
+h1{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    /* margin-bottom: 60px; */
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: #99d8c9;
+    margin: 60px auto;
+    border: 20px solid #5873e2;
+    outline: 10px solid black;
+    box-shadow: 0 0 0 30px #90ffa9;
+    border-radius: 10px;
+}
+
+.content-maker{
+    text-align: center;
+    margin-top: 30px;
+}
+.circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #99d8c9;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+.two{
+    background-color: #0d1430;
+}
+.three{
+    background-color: #90ffa9;
+}
+.four{
+    background-color: #5873e2;
+}
+.gol{
+    display: inline-block;
+    margin-left: 20px;
+}
+.content{
+    font-weight: bold;
+}
+hr{
+    width: 600px;
+    margin: 36px auto;
+    border-style: dashed;
+    border-color: gray;
+}
+.box-two{
+    height: 120px;
+    width: 180px;
+    background-color: rgb(214, 209, 209);
+    display: inline-block;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.box-contaier{
+    width: 580px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+}
+.section-2{
+    margin-bottom: 36px;
+}
+.border{
+    border: 1px solid black;
+}

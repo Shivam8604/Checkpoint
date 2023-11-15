@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1400px;
+    margin: 36px auto;
+}
+img{
+    display: inline-block;
+    width: 600px;
+}
+.content{
+    display: inline-block;
+    width: 600px;
+    vertical-align: top;
+    margin-left: 36px;
+}
+.content h1{
+    font-size: 36px;
+    color: rgb(7, 7, 147);
+}
+.content p{
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 36px;
+}
+.content a{
+    text-decoration: none;
+    font-size: 24px;
+    background-color: green;
+    padding: 15px;
+    color: #fff;
+    border-radius: 36px;
+}
+.sec{
+    display: inline-block;
+    width: 600px;
+    vertical-align: top;
+    margin-left: 36px;
+}
+.learn{
+    text-decoration: underline;
+    background-color: none;
+}
+.img2{
+    margin-right: 36px;
+}
